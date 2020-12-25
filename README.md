@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [Visit my google site](https://sites.google.com/view/ashok314)<br>
-[Check my writings](https://www.mirakee.com/ashnoom)
+[Check my writings(Poems)](https://www.mirakee.com/ashnoom)
 
 
 <!--
