@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[Visit my google site](https://sites.google.com/view/ashok314)<br>
+[Check my writings](https://www.mirakee.com/ashnoom)
+
+
 <!--
 **Ashok314/ashok314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
