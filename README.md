@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-[Visit my google site](https://sites.google.com/view/ashok314)<br>
-[Check my writings(Poems)](https://www.mirakee.com/ashnoom)
+Working on Github Portfolio (using Vuejs,Js)
+[ashok314.github.io](https://ashok314.github.io)<br>
 
-
+Working on C#/.Net project
+To be updated
 <!--
 **Ashok314/ashok314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
